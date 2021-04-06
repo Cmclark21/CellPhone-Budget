@@ -1,1 +1,2 @@
 # CellPhone-Budget
+This Python project is a tool that helps individuals identify potential phones they would be interested in based on their price point and carrier. Each user is prompted to reveal their cell phone carrier (AT&T, Verizon, or T-Mobile) and then their maximum price that they are willing to spend on a phone. This program provides a list of phones that suits their budget. The goal of this program is to assist users in navigating retail stores and provide people with phone options that suit their preferences without having to go to online retailers.
